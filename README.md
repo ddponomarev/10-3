@@ -7,7 +7,7 @@
 *Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name*.
 
 
-![Задание1](https://github.com/ddponomarev/10_2/blob/master/img/z1.png)
+![Задание1](https://github.com/ddponomarev/10-3/blob/master/img/z1.png)
 
 ---
 
@@ -18,7 +18,7 @@
 *Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
 
 
-![Задание2](https://github.com/ddponomarev/10_2/blob/master/img/z2.png)
+![Задание2](https://github.com/ddponomarev/10-3/blob/master/img/z2.png)
 
 ---
 
@@ -28,7 +28,7 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 
-![Задание3](https://github.com/ddponomarev/10_2/blob/master/img/z3.png)
+![Задание3](https://github.com/ddponomarev/10-3/blob/master/img/z3.png)
 
 
 ---
@@ -38,7 +38,7 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
 
-![Задание4](https://github.com/ddponomarev/10_2/blob/master/img/z4.png)
+![Задание4](https://github.com/ddponomarev/10-3/blob/master/img/z4.png)
 
 ---
 
@@ -50,4 +50,4 @@
 
 *Приведите скриншот интерфейса Kibana, на котором будет виден этот лог и напишите лог какого приложения отправляется.*
 
-![Задание5](https://github.com/ddponomarev/10_2/blob/master/img/z5.png)
+![Задание5](https://github.com/ddponomarev/10-3/blob/master/img/z5.png)
